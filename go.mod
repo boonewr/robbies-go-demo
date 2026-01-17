@@ -1,3 +1,3 @@
-module demo-app
+module github.com/boonewr/robbies-go-demo
 
-go 1.25.6
+go 1.24
